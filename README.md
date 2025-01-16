@@ -20,19 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto
+**"Análise do Impacto Social do Projeto Maestro/Itaipu-PCD: Efeitos sobre a Inclusão e Qualidade de Vida de Pessoas com Deficiência Motora e Sensorial"**
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Fiz um e-book. A capa foi feita no Leonardo IA e o título e conteúdo no chat GPT
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo IA e Chat GPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para o Léo ardo IA criar uma imagem em formato foto esportiva de um jogador de basquete em cadeira de rodas, em uma quadra jogando sozinho.
+O conteúdo e títulos foram baseados em um projeto social que existe de verdade. coloquei informações básicas sobre o projeto social e pedi para o chat criar um e-book no estilo acadêmico.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
